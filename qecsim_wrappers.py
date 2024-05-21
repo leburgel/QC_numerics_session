@@ -1,6 +1,6 @@
 """
 Some wrappers around the default qecsim python API, mainly to hide any binary symplectic
-representation jargon, make the printing nicer, and most switch X and Z everywhere. 
+representation jargon, make the printing nicer, and switch X and Z everywhere. 
 """
 
 import numpy as np
