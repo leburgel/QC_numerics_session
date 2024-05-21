@@ -1,0 +1,12 @@
+pip==24.0
+ipython==8.18.1
+numpy==1.26.4
+scipy==1.13.0
+matplotlib==3.9.0
+qutip==5.0.2
+qutip_qtrl==0.1.1
+qutip_qip==0.3.1
+qecsim==1.0b9
+stim==1.13.0
+pymatching==2.2.0
+sinter==1.13.0

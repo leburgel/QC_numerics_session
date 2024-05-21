@@ -1,0 +1,6 @@
+texlive-latex-base
+texlive-latex-extra
+texlive-pictures
+imagemagick
+dvipng
+ghostscript
