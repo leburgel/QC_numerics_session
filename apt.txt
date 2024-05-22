@@ -1,6 +1,6 @@
 texlive-latex-base
 texlive-latex-extra
 texlive-pictures
-imagemagick
+pdf2svg
 dvipng
 ghostscript
